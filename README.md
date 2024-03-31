@@ -1,2 +1,2 @@
 # Cli-Number-Guessing-Game
-Create a (CLI) Number Guessing Game. 
+This Is (Cli) Based Number Guessing Game (Using TypeScript)
